@@ -22,3 +22,8 @@ sidneykibet(at)gmail.com
 github accounts:
 
 sidneykibet
+
+
+Daniel Lujan
+gmail: daniel.lujan.v@gmail.com
+github: dluj
