@@ -3,34 +3,23 @@ gsd-solar
 
 Solar energy client for building simulator
 
-gmail accounts:
+=========
 
-almamouz(at)gmail.com
+TUTORIALS
+=========
 
-github accounts:
+Charts with ASP.NET and jqplot: http://depblog.weblogs.us/2009/08/31/charts-with-asp-net-mvc-and-jquery-through-jqplot/
 
-almamouz
+=========
 
-marline m
+Alex
+gmail: almamouz(at)gmail.com
+github: almamouz
 
 Sidney Kibet
-
-gmail accounts:
-
-sidneykibet(at)gmail.com
-
-github accounts:
-
-sidneykibet
-
+gmail: sidneykibet(at)gmail.com
+github: sidneykibet
 
 Daniel Lujan
 gmail: daniel.lujan.v@gmail.com
 github: dluj
-fsdsagf
-
-Ken
-
-Nada
-
-Jivan Thapa 
