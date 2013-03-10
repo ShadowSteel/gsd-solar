@@ -3,14 +3,13 @@ gsd-solar
 
 Solar energy client for building simulator
 
-=========
-
 TUTORIALS
 =========
 
 Charts with ASP.NET and jqplot: http://depblog.weblogs.us/2009/08/31/charts-with-asp-net-mvc-and-jquery-through-jqplot/
 
-=========
+CONTACTS
+========
 
 Alex
 gmail: almamouz(at)gmail.com
