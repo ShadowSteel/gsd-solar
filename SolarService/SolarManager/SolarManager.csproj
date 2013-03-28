@@ -362,7 +362,7 @@
         Port="21"
         Username="$(ftpUser)"
         Password="$(ftpPass)"
-        LocalDirectory="F:\files\out\\"
+        LocalDirectory="F:\files\out\"
         RemoteDirectory=""
         Recursive="true"
         />
