@@ -342,6 +342,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
@@ -361,7 +362,7 @@
         Port="21"
         Username="$(ftpUser)"
         Password="$(ftpPass)"
-        LocalDirectory="$(OutputPath)"
+        LocalDirectory="F:\files\out\\"
         RemoteDirectory=""
         Recursive="true"
         />
