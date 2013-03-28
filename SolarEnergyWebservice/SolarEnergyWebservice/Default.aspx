@@ -17,6 +17,16 @@
     <div>
         <h1>GSD 2013 :: Solar energy</h1>
         <p>hi :)</p>
+
+        <div>
+
+            <ul>
+                <li> Logs </li>
+                <li> Jivan has been committed </li>
+
+            </ul>
+
+        </div>
     </div>
     </form>
 </body>
