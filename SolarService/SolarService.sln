@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarManager", "SolarManager\SolarManager.csproj", "{AA04D42B-E7ED-4840-A3FE-86907F91912A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarEnergyWebservice", "SolarEnergyWebservice\SolarEnergyWebservice.csproj", "{9BE078AF-C09D-4D72-AEEB-1B4375FAAC24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{AA04D42B-E7ED-4840-A3FE-86907F91912A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA04D42B-E7ED-4840-A3FE-86907F91912A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA04D42B-E7ED-4840-A3FE-86907F91912A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE078AF-C09D-4D72-AEEB-1B4375FAAC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE078AF-C09D-4D72-AEEB-1B4375FAAC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE078AF-C09D-4D72-AEEB-1B4375FAAC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE078AF-C09D-4D72-AEEB-1B4375FAAC24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
