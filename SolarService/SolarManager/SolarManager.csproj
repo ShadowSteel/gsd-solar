@@ -348,4 +348,23 @@
   </Target>
   <Target Name="AfterBuild">
   </Target> -->
+  
+  <Import Project="$(MSBuildExtensionsPath32)\MSBuildCommunityTasks\MSBuild.Community.Tasks.Targets"/>
+<Target Name="AfterBuild">    
+    <PropertyGroup>
+        <ftpHost>ftp.pulamee.com</ftpHost>
+        <ftpUser>gsd2013</ftpUser>
+        <ftpPass>2013gsditu</ftpPass>
+    </PropertyGroup>
+        <FtpUploadDirectoryContent
+    ServerHost="$(ftpHost)"
+        Port="21"
+        Username="$(ftpUser)"
+        Password="$(ftpPass)"
+        LocalDirectory="$(OutputPath)"
+        RemoteDirectory=""
+        Recursive="true"
+        />
+</Target>
+
 </Project>
