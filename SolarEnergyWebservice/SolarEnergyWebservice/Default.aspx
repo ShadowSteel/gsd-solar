@@ -15,7 +15,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h1>GSD 2013 :: Solar energy</h1>
+        <h1>GSD 2013 :: Solar energy ::</h1>
         <p>hi :)</p>
 
         <div>
