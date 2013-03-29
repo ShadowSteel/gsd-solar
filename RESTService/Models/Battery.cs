@@ -10,7 +10,6 @@ namespace SolarWebApiService.Models
 {   
     public class Battery
     {
-        [JsonProperty(PropertyName = "val")]
         public float currentValue { get; set; }
         public Level level { get; set; }
 

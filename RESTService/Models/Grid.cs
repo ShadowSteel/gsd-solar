@@ -10,7 +10,6 @@ namespace SolarWebApiService.Models
 {
     public class Grid
     {
-        [JsonProperty(PropertyName = "val")]
         public float currentValue;
 
         public Grid()

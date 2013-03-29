@@ -10,7 +10,6 @@ namespace SolarWebApiService.Models
 {
     public class Production
     {
-        [JsonProperty(PropertyName = "val")]
         public float currentValue;
         public Level level;
 
