@@ -5,5 +5,5 @@ using System.Web;
 
 namespace SolarWebApiService.Models
 {
-    public enum Level { high, medium, low };
+    public enum Level { low, medium, high };
 }
