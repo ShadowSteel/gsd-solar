@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 
-namespace RESTService.Models
+namespace SolarWebApiService.Models
 {
     public class Consumption
     {
