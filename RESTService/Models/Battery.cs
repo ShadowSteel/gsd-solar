@@ -6,12 +6,12 @@ using System.Linq;
 using System.Net;
 using System.Web;
 
-namespace SolarWebApiService.Models
+namespace RESTService.Models
 {   
     public class Battery
     {
-        public float currentValue { get; set; }
-        public Level level { get; set; }
+        public float currentValue;
+        public Level level;
 
         public Battery()
         {

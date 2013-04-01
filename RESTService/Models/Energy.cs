@@ -3,18 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace SolarWebApiService.Models
+namespace RESTService.Models
 {
     [Serializable]
     public class Energy
     {
-        private float batteryValue;
-        private Level batteryLevel;
+        private float gridValue;
+        private Source currentSource;
         private float consumptionValue;
         private Level consumptionLevel;
-        private float gridValue;
         private float productionValue;
         private Level productionLevel;
+        private float batteryValue;
+        private Level batteryLevel;
 
         public Energy()
         {
@@ -22,6 +23,7 @@ namespace SolarWebApiService.Models
             Consumption consumption = new Consumption();
             Grid grid = new Grid();
             Production production = new Production();
+            Multiplexer multiplexer = new Multiplexer();
 
             this.batteryValue = battery.currentValue;
             this.batteryLevel = battery.level;
@@ -30,6 +32,7 @@ namespace SolarWebApiService.Models
             this.gridValue = grid.currentValue;
             this.productionValue = production.currentValue;
             this.productionLevel = production.level;
+            this.currentSource = multiplexer.currentSource;
         }
     }
 }
