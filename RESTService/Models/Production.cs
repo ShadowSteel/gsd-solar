@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 
-namespace SolarWebApiService.Models
+namespace RESTService.Models
 {
     public class Production
     {

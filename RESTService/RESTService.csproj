@@ -156,6 +156,7 @@
     <Compile Include="Models\Energy.cs" />
     <Compile Include="Models\Enum.cs" />
     <Compile Include="Models\Grid.cs" />
+    <Compile Include="Models\Multiplexer.cs" />
     <Compile Include="Models\Production.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
