@@ -15,6 +15,7 @@ namespace RESTService.Models
         private float gridValue;
         private float productionValue;
         private Level productionLevel;
+        private Source currentSource;
 
         public Energy()
         {
@@ -22,7 +23,9 @@ namespace RESTService.Models
             Consumption consumption = new Consumption();
             Grid grid = new Grid();
             Production production = new Production();
+            Multiplexer multiplexer = new Multiplexer();
 
+            this.currentSource = multiplexer.currentSource;
             this.batteryValue = battery.currentValue;
             this.batteryLevel = battery.level;
             this.consumptionValue = consumption.currentValue;
