@@ -1,0 +1,72 @@
+#secr
+{
+float:left ;
+border:1px solid #a1a1a1;
+background:#dddddd;
+border-radius:25px;
+text-align:center;
+font-family:arial;
+font-size:23px;
+text-decoration:blink;
+color:green;
+padding:50px 10px;
+margin:10px;
+margin-left:30px;
+height:100px;
+width:200px
+} 
+
+#multiplexer
+{
+float:right ;
+border:1px solid #a1a1a1;
+background:#dddddd;
+border-radius:25px;
+text-align:center;
+font-family:arial;
+font-size:10px;
+padding:2px 25px;
+margin:10px;
+margin-right:280px;
+height:200px;
+width:200px
+} 
+#gensmall
+{
+float:left;
+border:1px solid #a1a1a1;
+border-radius:10px;
+background:#3ddddd;
+text-align:center;
+font-family:arial;
+font-size:7px;
+padding:2px 5px;
+margin:3px;
+height:21px;
+width:190px
+}
+#genbig
+{
+float:left;
+border:1px solid #a1a1a1;
+border-radius:10px;
+background:#e01b1b;
+text-align:center;
+text-decoration:blink;
+font-family:arial;
+font-size:7px;
+padding:1px 5px;
+margin:3px;
+height:21px;
+width:190px
+} 
+
+#backwall
+{
+	clear: left;
+	background: #339999;
+	text-align: right;
+	padding: 20px;
+	height: 220px;
+
+}
