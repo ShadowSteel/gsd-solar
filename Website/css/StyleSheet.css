@@ -1,0 +1,68 @@
+﻿body {
+
+}
+
+#main {
+width: 961px;
+margin:auto;
+}
+
+.border {
+border: 1px solid gray;
+}
+
+#main {
+    width:961px;
+    
+}
+
+#heading {
+width:960px;
+height: 130px;
+
+}
+
+#currentConsumption {
+    width:350px;
+height: 300px;
+margin-left: 10px; 
+margin-right: 10px; 
+}
+#totalConsumption {
+    width:470px;
+height: 300px;
+margin-left: 10px; 
+margin-right: 10px; 
+}
+#admin 
+{
+    width:80px;
+height: 200px;
+margin-left: 10px; 
+}
+
+.fourBox {
+width:215px;
+height: 200px; 
+margin-left: 10px;
+margin-right: 10px;
+float:left;
+}
+
+.float_left {
+float:left;
+
+}
+
+.margin_top {
+    clear:both; 
+margin-top: 20px; 
+}
+
+ #solarProduction {
+}
+
+
+#BoxWrapper {
+margin-top: 20px; 
+}
