@@ -23,20 +23,20 @@ height: 130px;
 }
 
 #currentConsumption {
-    width:350px;
+    width:300px;
 height: 300px;
 margin-left: 10px; 
 margin-right: 10px; 
 }
 #totalConsumption {
-    width:470px;
+    width:450px;
 height: 300px;
 margin-left: 10px; 
 margin-right: 10px; 
 }
 #admin 
 {
-    width:80px;
+    width:150px;
 height: 200px;
 margin-left: 10px; 
 }
@@ -65,4 +65,12 @@ margin-top: 20px;
 
 #BoxWrapper {
 margin-top: 20px; 
+}
+input [type=submit]{
+	border:1px solid #3d3d3d;
+	background:#006600;
+	color:#FFFFFF;
+	padding: 10px;
+	margin:0;
+	cursor: pointer;
 }
